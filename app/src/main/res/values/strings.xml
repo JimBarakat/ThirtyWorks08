@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ThirtyWorks08</string>
+    <string name="low_toast">All dice with a value of 3 or lower give points</string>
+    <string name="four_toast">All combos of one or more that give the sum 4</string>
+    <string name="five_toast">All combos of one or more that give the sum 5</string>
+    <string name="six_toast">All combos of one or more that give the sum 6</string>
+    <string name="seven_toast">All combos of one or more that give the sum 7</string>
+    <string name="eight_toast">All combos of one or more that give the sum 8</string>
+    <string name="nine_toast">All combos of one or more that give the sum 9</string>
+    <string name="ten_toast">All combos of one or more that give the sum 10</string>
+    <string name="eleven_toast">All combos of one or more that give the sum 11</string>
+    <string name="twelve_toast">All combos of one or more that give the sum 12</string>
+    <string name="score_choice">Score Choice</string>
+    <string name="throw_dice">Throw Dice!</string>
+    <string name ="round_1">Round 1 Score:        </string>
+    <string name ="round_2">Round 2 Score:        </string>
+    <string name ="round_3">Round 3 Score:        </string>
+    <string name ="round_4">Round 4 Score:        </string>
+    <string name ="round_5">Round 5 Score:        </string>
+    <string name ="round_6">Round 6 Score:        </string>
+    <string name ="round_7">Round 7 Score:        </string>
+    <string name ="round_8">Round 8 Score:        </string>
+    <string name ="round_9">Round 9 Score:        </string>
+    <string name ="round_10">Round 10 Score:        </string>
+    <string-array name="str2">
+        <item>LOW</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>TEN</item>
+        <item>ELEVEN</item>
+        <item>TWELVE</item>
+    </string-array>
+    <string name ="dice_number_1">1</string>
+    <string name ="dice_number_2">2</string>
+    <string name ="dice_number_3">3</string>
+    <string name ="dice_number_4">4</string>
+    <string name ="dice_number_5">5</string>
+    <string name ="dice_number_6">6</string>
+</resources>
